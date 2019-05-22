@@ -1,0 +1,101 @@
+nom,prenom,adresse,moyenne,age,region,specialite,sexe
+Mariko,Melendez,Ap #198-2598 Vivamus Rd.,8,24,dakar,anglais,homme
+Harper,Green,6935 Mattis Av.,16,15,diourbel,telecom,femme
+Lamar,Francis,179-1779 Arcu Av.,10,17,thies,anglais,femme
+Kenyon,Henderson,360-9822 Dictum. Street,15,26,fatick,math,femme
+Jade,Zamora,"P.O. Box 815, 1099 Elit, Rd.",15,22,ziguinchor,anglais,femme
+Kuame,Page,"P.O. Box 207, 853 Massa Rd.",5,24,thies,anglais,homme
+Cameran,Garcia,Ap #310-6614 Amet Rd.,7,19,diourbel,informatique,femme
+Lenore,Flores,846-6923 Libero Street,16,24,ziguinchor,DataScience,femme
+Garrison,Crawford,6809 Fringilla St.,11,22,matam,espagnol,femme
+Evangeline,Patterson,"Ap #947-9332 Odio, Rd.",5,20,diourbel,math,femme
+Reese,Owen,3739 Odio St.,17,15,matam,anglais,homme
+Aspen,Duncan,"P.O. Box 412, 8630 Cursus, St.",17,23,fatick,DataScience,femme
+Reese,Cobb,"P.O. Box 938, 1843 Eget, Av.",9,23,ziguinchor,francais,homme
+Carter,Avila,8797 Eleifend. St.,11,20,thies,math,homme
+Meghan,Sosa,"310-8684 Amet, St.",17,18,dakar,anglais,femme
+Leslie,Hampton,"P.O. Box 573, 7315 Tristique Road",18,22,matam,math,homme
+Gareth,Mercer,Ap #399-6570 Lorem Av.,18,17,fatick,informatique,femme
+Hayes,Waller,"P.O. Box 978, 1578 Felis St.",17,21,ziguinchor,espagnol,femme
+Willa,Washington,Ap #100-4744 Vestibulum St.,10,21,mbour,espagnol,homme
+Claire,Fernandez,"P.O. Box 765, 5509 Sed Av.",17,18,diourbel,espagnol,homme
+Casey,Hobbs,Ap #753-2810 Fusce Ave,18,15,diourbel,DataScience,femme
+Branden,Hanson,Ap #687-3696 Nulla St.,6,22,matam,francais,femme
+Ava,Hutchinson,"P.O. Box 902, 1201 Imperdiet Rd.",15,16,diourbel,DataScience,homme
+Bert,Mckee,"P.O. Box 626, 6871 Mauris Rd.",5,19,dakar,telecom,femme
+Sawyer,Mcdowell,"607-5540 Ornare, Road",14,16,diourbel,informatique,femme
+Justin,Reilly,Ap #698-1766 Et St.,12,23,diourbel,espagnol,femme
+Dylan,Lester,629 Dolor. Rd.,12,15,matam,informatique,femme
+Halee,Burnett,Ap #414-3362 Sem Street,16,22,thies,espagnol,femme
+Charlotte,Mccarthy,"Ap #256-6269 Felis, Road",17,16,matam,telecom,femme
+Upton,Bowers,"Ap #421-4420 Lobortis, Av.",11,23,matam,informatique,femme
+Kareem,Rocha,"P.O. Box 755, 297 At Street",7,20,matam,math,femme
+Brock,Best,"P.O. Box 501, 7776 Viverra. Rd.",17,16,fatick,telecom,homme
+Rose,Hardin,1386 Lacinia Rd.,8,19,thies,francais,femme
+Lacy,Christensen,3864 Erat Ave,5,18,matam,informatique,femme
+Cyrus,Huff,179-8931 Ornare Rd.,10,23,ziguinchor,math,homme
+Kelsie,Conner,Ap #124-9100 Quam Rd.,5,21,dakar,anglais,femme
+Scott,Alston,1624 Eros. Av.,17,22,ziguinchor,francais,homme
+Beau,Ferrell,989 Neque St.,5,17,ziguinchor,DataScience,homme
+Charissa,Foster,9808 Scelerisque Street,18,22,ziguinchor,anglais,homme
+Juliet,Mcgee,5491 Blandit St.,19,24,ziguinchor,anglais,femme
+Lance,Stuart,"P.O. Box 914, 2158 Tellus Ave",12,16,matam,informatique,femme
+Nasim,Lancaster,Ap #787-9637 Egestas Road,13,20,matam,reseau,homme
+Anjolie,Hardy,"P.O. Box 253, 3064 Gravida Avenue",5,20,mbour,reseau,femme
+Ann,Craft,"P.O. Box 245, 5154 Dolor Rd.",7,24,fatick,anglais,homme
+Chiquita,Wheeler,486-2422 Tristique Rd.,16,16,matam,reseau,femme
+Samson,Owen,"P.O. Box 645, 5102 Arcu. Rd.",12,17,mbour,telecom,homme
+Yeo,Brewer,472 Interdum. Avenue,6,22,fatick,francais,femme
+Eugenia,Bennett,866-4886 Eu Ave,7,16,dakar,informatique,homme
+Eaton,Odom,Ap #511-259 Ac Road,6,23,dakar,anglais,femme
+Omar,Cortez,9835 Non St.,9,16,fatick,math,homme
+Ferris,Lowery,268-9378 Mauris Av.,16,22,fatick,DataScience,homme
+Kenyon,Hart,544-7168 Vitae Rd.,15,24,dakar,anglais,femme
+Baker,Molina,Ap #635-8086 Lorem Rd.,19,21,diourbel,telecom,femme
+Phoebe,Curry,7257 Nullam Rd.,19,20,matam,anglais,femme
+Daniel,Jacobson,"P.O. Box 588, 3290 Mauris. Ave",10,22,thies,DataScience,homme
+Xander,Abbott,8958 Lectus St.,16,25,thies,espagnol,femme
+Fuller,Huffman,"P.O. Box 966, 8867 Ut Ave",13,23,fatick,reseau,femme
+Davis,Clay,404-1806 Sit Avenue,19,16,mbour,espagnol,homme
+Gregory,Stanley,"P.O. Box 109, 6071 Rutrum, St.",19,22,matam,reseau,homme
+Mira,Griffith,Ap #998-7645 Magnis Street,11,24,ziguinchor,DataScience,femme
+Matthew,Ruiz,"P.O. Box 289, 4021 Elit, Av.",15,20,diourbel,reseau,femme
+Jacob,Marks,734-8581 Commodo Av.,17,18,diourbel,francais,femme
+Wynter,Best,Ap #539-5154 Primis Street,10,20,mbour,informatique,homme
+Ronan,Gray,"P.O. Box 778, 1307 Varius Street",5,21,dakar,francais,femme
+Merrill,Landry,7551 Magna. Road,7,17,thies,math,femme
+Kyla,Browning,"P.O. Box 415, 7942 Tincidunt, St.",11,18,mbour,espagnol,homme
+Chaney,Barry,1194 Mauris St.,14,22,mbour,informatique,femme
+TaShya,Marsh,9903 Et Rd.,17,24,mbour,DataScience,homme
+Imelda,Kirby,971-381 Ligula. Street,18,21,diourbel,espagnol,homme
+Brynn,Garner,"P.O. Box 821, 1329 Dis Street",12,22,dakar,espagnol,homme
+Kibo,Moses,"7827 Nec, Avenue",15,23,fatick,DataScience,femme
+Talon,Shepard,3713 Hymenaeos. Rd.,10,26,matam,espagnol,femme
+Idona,Sharp,"4309 Ornare, Avenue",7,23,thies,math,femme
+Brenda,Blanchard,"P.O. Box 287, 4006 Metus. St.",11,19,ziguinchor,reseau,homme
+Tarik,Simmons,8366 Augue Rd.,6,15,thies,informatique,homme
+Mara,Campos,"P.O. Box 270, 1913 Augue Av.",19,16,fatick,math,homme
+Beck,Burris,8260 Iaculis Ave,9,16,mbour,francais,femme
+Palmer,Drake,885-9962 Id St.,18,18,dakar,math,homme
+Kiayada,Ramos,401-1144 Purus. Street,6,24,diourbel,telecom,femme
+Athena,Edwards,318 Accumsan Street,18,24,matam,informatique,femme
+Preston,Mccormick,406-7728 Eu Av.,16,26,ziguinchor,reseau,homme
+Delilah,Dillard,5463 Ligula Av.,19,25,ziguinchor,math,homme
+Merrill,Richard,Ap #235-3954 Dolor St.,17,20,dakar,informatique,femme
+Heather,Acevedo,Ap #441-8390 Ultrices Road,10,26,thies,francais,femme
+Tobias,French,"P.O. Box 475, 1517 Elementum St.",8,23,dakar,telecom,femme
+Grady,Bender,335-4008 Faucibus. Av.,18,17,matam,math,homme
+Kennedy,Oliver,507-6970 Eu Av.,18,18,thies,math,femme
+India,Acosta,6236 Lorem Rd.,8,25,fatick,DataScience,homme
+Roary,Park,"Ap #142-2897 Vulputate, Road",16,23,dakar,DataScience,femme
+Casey,Nixon,658-1048 Diam Avenue,13,24,ziguinchor,telecom,homme
+Kelsey,Moran,Ap #783-6946 Dui Rd.,17,23,ziguinchor,informatique,homme
+Germaine,Newman,Ap #471-7151 Et Rd.,14,22,ziguinchor,francais,homme
+Philip,Manning,465-7580 Metus. Road,17,20,fatick,DataScience,homme
+Kane,Reid,777-9422 Mi. Street,12,18,thies,telecom,homme
+Emi,Horne,Ap #237-9251 Turpis. Street,18,26,fatick,telecom,homme
+Emma,Harrington,Ap #205-6958 Lacinia. Avenue,7,16,fatick,DataScience,femme
+Brett,Ward,3614 Lorem Avenue,15,20,dakar,anglais,homme
+Evelyn,Everett,9363 Taciti St.,9,19,thies,anglais,homme
+Daphne,Reid,"P.O. Box 382, 7376 Consectetuer Rd.",12,23,matam,anglais,homme
+Dante,Scott,453-189 Sed Rd.,18,23,matam,francais,homme
