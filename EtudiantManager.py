@@ -24,12 +24,23 @@ while choix != 4:
     choix = int(input("faite votre choix : "))
     if choix == 1:
         etu.extraction(10,'etudant_avec_la_moyenne.csv')
+        print('Le fichier Etudiant_avec_la_moyenne.csv a ete extrait avec succes \n ')
         
     if choix == 2:
         etu.extraction(20,'etudant_age.csv')
+        print('Le fichier Etudiant_age.csv a ete extrait avec succes \n ')
+
         
     if choix == 3:
         etu.statistique()
+        print('Le fichier statistique.csv a ete extrait avec succes \n ')
+    
+
+
+print('\nMerci de votre visite !')
+print('Bye \n')
+
+
 		
 
 
