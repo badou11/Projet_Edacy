@@ -1,3 +1,9 @@
+Prenom : Alioune Badara Pierre
+Nom : Niang
+Mail : mcabpn@gmail.com
+Tel : 77 828 26 02
+Specialité : Etudiant en cycle Ingenieur de Conception a l'ESMT dominante Reseau Informatique et Telecommunication
+
 # projet_edacy
 realisation du projet Edacy Data Science
 vous trouverez un fichier excel contenant la liste de tout les etudiants
